@@ -1,6 +1,6 @@
-# 📝 Personal Blog Website (Django)
+# 📝 Blogging Platform using Django
 
-A full-featured personal blog application built with Django that allows users to view blog posts with images. Admins can manage content easily using Django’s built-in admin panel. Designed for learning and showcasing backend web development skills.
+A full-featured blogging application built with Django that allows users to view blog posts with images. Admins can manage content easily using Django’s built-in admin panel. Designed for learning and showcasing backend web development skills.
 
 ---
 
